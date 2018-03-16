@@ -1,0 +1,8 @@
+C:\Users\Aluno_2\Desktop\Etec.ExerciciosFixacao\Etec.ExerciciosFixacao\bin\Debug\Etec.ExerciciosFixacao.exe.config
+C:\Users\Aluno_2\Desktop\Etec.ExerciciosFixacao\Etec.ExerciciosFixacao\bin\Debug\Etec.ExerciciosFixacao.exe
+C:\Users\Aluno_2\Desktop\Etec.ExerciciosFixacao\Etec.ExerciciosFixacao\bin\Debug\Etec.ExerciciosFixacao.pdb
+C:\Users\Aluno_2\Desktop\Etec.ExerciciosFixacao\Etec.ExerciciosFixacao\obj\x86\Debug\Etec.ExerciciosFixacao.Form1.resources
+C:\Users\Aluno_2\Desktop\Etec.ExerciciosFixacao\Etec.ExerciciosFixacao\obj\x86\Debug\Etec.ExerciciosFixacao.Properties.Resources.resources
+C:\Users\Aluno_2\Desktop\Etec.ExerciciosFixacao\Etec.ExerciciosFixacao\obj\x86\Debug\Etec.ExerciciosFixacao.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\Desktop\Etec.ExerciciosFixacao\Etec.ExerciciosFixacao\obj\x86\Debug\Etec.ExerciciosFixacao.exe
+C:\Users\Aluno_2\Desktop\Etec.ExerciciosFixacao\Etec.ExerciciosFixacao\obj\x86\Debug\Etec.ExerciciosFixacao.pdb
